@@ -1,0 +1,11 @@
+tracker/__pycache__/
+tracker/venv/
+node_modules
+.env
+proposed.pdf
+scanner/walletData_test.json
+tracker/1.py
+tracker/2.py
+tracker/convert.py
+tracker/log
+tracker/bot.log
